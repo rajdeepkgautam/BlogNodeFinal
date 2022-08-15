@@ -1,0 +1,116 @@
+.the{
+    display: inline-block;
+    top: 60px;
+    left: 814px;
+    width: 39px;
+    height: 60px;
+    text-align: left;
+    letter-spacing: 0px;
+    opacity: 1;
+    margin-left: 575px;
+    position: absolute;
+    bottom: 60px;
+    left: 92px;
+    color:#096f8c;
+    font-size: 2.3rem;
+}
+.blog{
+    display: inline-block;
+    top: 125px;
+    left: 873px;
+    width: 190px;
+    height: 87px;
+    text-align: left;
+    font: normal normal bold 71px/87px Montserrat;
+    letter-spacing: 0px;
+    opacity: 1;
+    margin-top: 150px;
+    margin-left: 745px;
+    color:#845EC2;
+    font-size: 3.5rem;
+    margin-bottom: 0.5rem;
+}
+.blog h1 span{
+    color:#0081CF;
+    font-size: 3rem;
+}
+.daily{
+    color:#008E9B;
+    font-size: 1.3rem;;
+    margin-left: 600px;
+    margin-top: -40px;
+}
+.home{
+    display: inline-block;
+    top: 189px;
+    left: 404px;
+    width: 56px;
+    height: 22px;
+    text-align: left;
+    font: normal normal medium 18px/22px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-left: 300px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.home:hover{
+    border-bottom: 5px solid gray;
+}
+.Tourism{
+    display: inline-block;
+    top: 189px;
+    left: 611px;
+    width: 96px;
+    height: 22px;
+    text-align: left;
+    font: normal normal medium 18px/22px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-left: 100px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.Tourism:hover{
+    border-bottom: 5px solid gray;
+}
+.hr{
+    margin-left: 200px;
+    margin-right: 200px;
+    color:gray;
+}
+.tourism_Head{
+    margin-left: 262px;
+    border-bottom: 3px solid red ;
+    margin-right: 1120px;
+}
+.Taj{
+    display: inline;
+    height: 200px;
+    width: 200px;
+    margin-left: 262px;
+    margin-top: 10px;
+}
+.Taj-H{
+    display: inline;
+    position: relative;
+    bottom: 161px;
+}
+.matter{
+    /* height: 700px; */
+    display: inline-flex;
+    position: relative;
+    /* left: 320px; */
+    right: 320px;
+    bottom: 120px;
+    flex-wrap: wrap;
+    font-size: 17px;
+    
+}
+.h2H{
+    display: inline;
+    position: relative;
+    right: 700px;
+}
